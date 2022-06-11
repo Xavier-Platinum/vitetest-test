@@ -1,2 +1,0 @@
-# vitetest-test
-Vitetest
